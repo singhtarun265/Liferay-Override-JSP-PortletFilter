@@ -1,0 +1,4 @@
+Bundle-Name: custom-portlet-filter
+Bundle-SymbolicName: com.liferay.custom.portlet.filter
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.custom.portlet.filter.constants
